@@ -44,4 +44,4 @@ rm -r COMEXT
 ```
 cd src
 python dashboard_comext.py
-```![dashboard1](https://user-images.githubusercontent.com/11426919/110153232-75148e00-7deb-11eb-8b49-ecd760c155af.png)
+```
